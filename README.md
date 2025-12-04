@@ -46,15 +46,6 @@ Pronouns: He/Him
 
 ---
 
-## 📊 GitHub Stats
-![Trevor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trevornweze&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevornweze&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=trevornweze&theme=radical&hide_border=true)
-
----
-
 ## 🌍 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trevornweze)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
