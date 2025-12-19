@@ -5,7 +5,7 @@
 ## ✨ About Me
 A **Fullstack and Creative Developer** with a background in **Advanced Computer Science** and a passion for building digital experiences that are seamless, scalable, and beautifully designed.
 
-I love the space where **design meets code** — crafting clean frontends, reliable backends, and immersive user experiences.  
+I love the space where **design meets code** crafting clean frontends, reliable backends, and immersive user experiences.  
 I enjoy experimenting with motion, 3D, and interactive visuals using tools like **GSAP** and **Three.js**, while still writing maintainable, performance-focused code.
 
 When I’m not designing or coding, you’ll probably find me exploring **cloud tools** (AWS and Google Cloud), trying out new frameworks, or refining my creative process.  
